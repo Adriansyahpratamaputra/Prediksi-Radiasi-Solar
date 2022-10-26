@@ -1,4 +1,4 @@
-#Prediksi-Radiasi-Solar
+PREDIKSI RADIASI SOLAR
 <br>Deployment Prediksi Radiasi Solar menggunakan Machine Learning (Data Science) model Random Forest Regressor.<br>
 
 SRP
