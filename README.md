@@ -5,4 +5,4 @@
 <br>Amata Kara Perdani Handiman<br>
 <br>Fanisa Nimastiti<br>
 <br>Ferdy Wahyudi<br>
-<br>M. Firman Hermawan<br>
+<br>Muhammad. Firman Hermawan<br>
