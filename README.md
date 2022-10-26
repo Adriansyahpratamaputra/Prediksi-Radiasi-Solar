@@ -7,5 +7,5 @@
 <br>Ferdy Wahyudi<br>
 <br>M. Firman Hermawan<br>
 <br>SRP <br>
-<br>Solar Radiation Prediction
+<br>Solar Radiation Prediction<br>
 Website ini bertujuan untuk memprediksi radiasi pada solar berdasarkan arah angin, kecepatan angin, kelembaban, dan temperature. Solar radiasi merupakan kekuatan satuan unit area yang diraih dari Matahari dalam bentuk radiasi elektromagnetik pada rangkaian Panjang gelombang dari instrument yang terukur. Data yang dimiliki adalah berdasarkan data meteorological dari stasiun cuaca HI-SEAS. Data tersebut berawal dari 4 bulan (Bulan Sepember hingga Desember)<br>.
