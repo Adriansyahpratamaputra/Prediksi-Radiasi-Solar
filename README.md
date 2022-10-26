@@ -10,4 +10,4 @@ Website ini dibuat untuk memprediksi radiasi pada solar berdasarkan arah angin, 
 <br>Amata Kara Perdani Handiman<br>
 <br>Fanisa Nimastiti<br>
 <br>Ferdy Wahyudi<br>
-<br>M. Firman Hermawan<br>
+<br>Muhammad. Firman Hermawan<br>
